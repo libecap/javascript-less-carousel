@@ -11,7 +11,7 @@
 
 .carousel-btn {
   border: 4px solid #fff;
-  border-radius:50%;
+  border-radius: 50%;
 }
 
 #arsinoitherium-control:checked ~ .carousel-inner [for="arsinoitherium-control"],
